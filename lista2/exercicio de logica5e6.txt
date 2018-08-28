@@ -1,0 +1,61 @@
+EXERCICIO 5
+
+A= 2
+B= 7
+C= 3.5
+D= noite
+E= frio
+L= FALSO
+VERDADEIRO= verdadeiro
+
+a) B=A*C.e.L.ou.verdadeiro  = V
+
+
+b)'dia'=D.ou.'frio'<>'clima   = V
+
+
+c)A+D<5  = F
+
+
+d)A*C/B>A*B*C  = F
+
+
+e).não.FALSO   = V
+
+----------------------------------------------------------------------------------------
+EXERCICO 6
+
+X= 1
+A= 3
+B= 5
+C= 8
+D= 7
+
+a).não.(X>3)  = V
+
+
+b)(X<1).e..não.(B>D)  = F
+
+
+c).não.(D<0).e.(C>5)  = V
+
+
+d).não.((X>3).ou.(C<7))  = V
+
+
+e)(A>B).ou.(C>B)  = V
+
+
+f)(X>=2)  = F
+
+
+g)(X<1).e.(B>=D)  = F
+
+
+h)(D<0).ou.(C>5)  = V
+
+
+i).não.(D>3).ou..não.(B>7)  = V
+
+
+j)(A>B).ou..não.(C>B)  = F
