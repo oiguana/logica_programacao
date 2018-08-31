@@ -11,9 +11,8 @@ inicio
   escreval ("Digite o percentual de ICMS:")
   leia (percentual)
   
-  percentual <- cust_fab * 0.15
+  percentual <- (cust_fab / 100) * percentual
   preco_final <- cust_fab + percentual
-  
   limpatela
   escreval ("O valor final do produto é de R$", preco_final)
 fimalgoritmo
