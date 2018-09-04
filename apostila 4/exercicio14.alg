@@ -19,9 +19,14 @@ inicio
   escreval ("Digite a nota do segundo trabalho: ")
     leia (t2)
     
-    media_p <- (p1 + p2 + p3 + p4) * 0.65
-    media_t <- (t1 + t2) * 0.35
+    media_p <- ((p1 + p2 + p3 + p4) / 4) * 0.65
+    media_t <- ((t1 + t2) / 2) * 0.35
+    
     media_final <- media_p + media_t
-    media_final <- media_final / 100
+    
+    limpatela
+    escreval ("Sua media final é :", media_final)
+
+
 
 fimalgoritmo
